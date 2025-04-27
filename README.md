@@ -17,4 +17,10 @@ Currently focused on:
 
 ---
 
+🏛️ Project Delivery Philosophy:
+
+For major client projects, I set up dedicated GitHub repositories to manage AI workflows, automation assets, and agent architectures.  
+This ensured transparency, future scalability, and easy knowledge transfer — empowering clients to maintain and grow their AI systems independently.
+
+
 **Let's connect!** 🚀  
