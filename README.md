@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Isaac
 
-<!--
-**Isaac24Karat/Isaac24Karat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Solutions Builder | Automation Specialist | Business-First Thinker
 
-Here are some ideas to get you started:
+I design and implement smart AI and automation systems that solve real-world problems.  
+My experience covers:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI Agent Implementation (LangChain, OpenAI, Pinecone)
+- 🔗 Automation Flows (n8n, API Integrations, Workflow Orchestration)
+- 📊 Business Optimization (Booking Automation, Dispatch Efficiency, Customer Support AI)
+
+🔎 I love building AI solutions that are measurable, scalable, and user-centric.
+
+Currently focused on:  
+→ AI-enhanced travel & logistics automation  
+→ Building proactive customer experiences through smart agents  
+
+---
+
+**Let's connect!** 🚀  
