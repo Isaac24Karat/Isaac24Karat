@@ -24,3 +24,13 @@ This ensured transparency, future scalability, and easy knowledge transfer — e
 
 
 **Let's connect!** 🚀  
+
+---
+
+🛡️ Note on Private Projects:
+
+Since many of my real-world AI deployments were client-specific and under NDA, most of the heavy project activity is managed in private repositories.  
+For each major client, I set up dedicated GitHub repositories to manage AI workflows, automation assets, and agent architectures — ensuring transparency, scalability, and easy future maintenance.
+
+The public projects shared here reflect the same architecture principles, KPI-driven implementations, and business-first AI strategies that I used for real deployments.
+
