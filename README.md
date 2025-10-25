@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Isaac
 
-🚀 AI Solutions Builder | Automation Specialist | Business-First Thinker
+🚀 AI Systems Architect | Automation Specialist | Business-First Thinker
+I design and implement smart AI and automation systems that solve real-world operational challenges.
 
-I design and implement smart AI and automation systems that solve real-world problems.  
-My experience covers:
+My work focuses on bridging AI, business systems, and data integrity — helping organizations scale faster and operate with clarity.
 
-- 🤖 AI Agent Implementation (LangChain, OpenAI, Pinecone)
-- 🔗 Automation Flows (n8n, API Integrations, Workflow Orchestration)
-- 📊 Business Optimization (Booking Automation, Dispatch Efficiency, Customer Support AI)
+🔧 Specializing in:
+• AI + Low-Code Automation (n8n, Flowise, Make)
+• CRM & RevOps Data Pipelines (HubSpot, Airtable)
+• AI Governance + Validation (JSON Schema, RAG frameworks)
 
-🔎 I love building AI solutions that are measurable, scalable, and user-centric.
-
-Currently focused on:  
-→ AI-enhanced travel & logistics automation  
-→ Building proactive customer experiences through smart agents  
+💡 Currently focused on:
+→ GTM systems automation for data-driven companies
+→ Operational AI architecture and human-in-the-loop design 
 
 ---
 
