@@ -1,35 +1,42 @@
 # 👋 Hi, I'm Isaac
 
-🚀 AI Systems Architect | Automation Specialist | Business-First Thinker
-I design and implement smart AI and automation systems that solve real-world operational challenges.
+🚀 **AI Systems Architect | Automation Specialist | Business-First Thinker**
 
-My work focuses on bridging AI, business systems, and data integrity — helping organizations scale faster and operate with clarity.
+I design and implement **smart AI and automation systems** that solve real-world operational challenges — connecting data, people, and processes to scale business impact.
 
-🔧 Specializing in:
-• AI + Low-Code Automation (n8n, Flowise, Make)
-• CRM & RevOps Data Pipelines (HubSpot, Airtable)
-• AI Governance + Validation (JSON Schema, RAG frameworks)
-
-💡 Currently focused on:
-→ GTM systems automation for data-driven companies
-→ Operational AI architecture and human-in-the-loop design 
+My work bridges **AI, business systems, and data integrity**, helping organizations grow faster and operate with clarity.
 
 ---
 
-🏛️ Project Delivery Philosophy:
+### 🔧 Specializing In
+• **AI + Low-Code Automation** (n8n, Flowise, Make)  
+• **CRM & RevOps Data Pipelines** (HubSpot, Airtable)  
+• **AI Governance + Validation** (JSON Schema, RAG frameworks)  
+• **KPI-Driven Workflow Architecture** (forecasting, attribution, data hygiene)
 
-For major client projects, I set up dedicated GitHub repositories to manage AI workflows, automation assets, and agent architectures.  
-This ensured transparency, future scalability, and easy knowledge transfer — empowering clients to maintain and grow their AI systems independently.
+---
 
+### 💡 Currently Focused On
+→ Building **GTM automation systems** for data-driven companies  
+→ Designing **operational AI architecture** with human-in-the-loop principles  
+→ Creating **self-healing data pipelines** and transparency dashboards  
+
+---
+
+### 🏛️ Project Delivery Philosophy
+
+For major client projects, I set up **dedicated GitHub repositories** to manage AI workflows, automation assets, and agent architectures.  
+This ensures transparency, scalability, and easy knowledge transfer — empowering clients to maintain and grow their systems independently.
+
+> 🎯 *Every automation I build is tied to measurable business KPIs — faster throughput, cleaner data, and lower manual effort.*
 
 **Let's connect!** 🚀  
 
 ---
 
-🛡️ Note on Private Projects:
+### 🛡️ Note on Private Projects
 
-Since many of my real-world AI deployments were client-specific and under NDA, most of the heavy project activity is managed in private repositories.  
-For each major client, I set up dedicated GitHub repositories to manage AI workflows, automation assets, and agent architectures — ensuring transparency, scalability, and easy future maintenance.
+Many of my real-world AI deployments are client-specific and under NDA, so most heavy activity is managed in private repositories.  
+Each project follows the same **architecture principles, KPI-driven implementation**, and **business-first AI strategy** you’ll see in my public repos.
 
-The public projects shared here reflect the same architecture principles, KPI-driven implementations, and business-first AI strategies that I used for real deployments.
-
+> The public projects here reflect the same engineering discipline and delivery philosophy I apply in real client environments.
